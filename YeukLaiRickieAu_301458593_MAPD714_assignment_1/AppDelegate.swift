@@ -1,16 +1,15 @@
-//
-//  AppDelegate.swift
-//  YeukLaiRickieAu_301458593_MAPD714_assignment_1
-//
-//  Created by Rickie Au on 23/9/2024.
-//
+
+// File name: YeukLaiRickieAu_301458593_MAPD714_assignment_1
+// Author: Rickie Au
+// Student ID: 301458593
+// Date: 23 Sep 2024
+// App Description: This is a simple interest rate calculator in MAPD714
+// Version: 1.0.0
 
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
